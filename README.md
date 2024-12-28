@@ -35,7 +35,7 @@ cd vehicle-following-e2e
 ```
 
 ### Dataset
-The dataset used in this project includes various scenarios, vehicle types, and environmental conditions. Due to its size, the dataset is hosted on Google Drive. Access it [here](https://drive.google.com/your-dataset-link). Follow the setup instructions in the repository.
+The dataset used in this project includes various scenarios. Only a partial dataset has been uploaded and is available on Google Drive. You can access it [here](https://drive.google.com/drive/folders/1_GenfbRosUPFyHhQkU8nwK0usfB_Rvzf?usp=drive_link).
 
 ## Demo Video
 A demonstration of the proposed framework in action is available on [YouTube](https://youtu.be/zL1bcVb9kqQ).
